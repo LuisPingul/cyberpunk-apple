@@ -3,6 +3,7 @@ Student ID: 111806
 Section: 2A - IT ELEC 3
 
 Live Website URL: https://luispingul.github.io/cyberpunk-apple/
+Repository Link: https://github.com/LuisPingul/cyberpunk-apple
 
 Project Description:
 This is a landing page for "Apple Neural," a fictional cyberpunk-themed neural interface product. It features a responsive design, neon aesthetics, and interactive JavaScript elements like mobile navigation and alert pop-ups.
