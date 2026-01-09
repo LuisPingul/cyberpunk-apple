@@ -2,7 +2,7 @@ Student Name: Pingul, Michael Luis Benedick R.
 Student ID: 111806
 Section: 2A - IT ELEC 3
 
-Live Website URL: [We will generate this in Step 2]
+Live Website URL: https://luispingul.github.io/cyberpunk-apple/
 
 Project Description:
 This is a landing page for "Apple Neural," a fictional cyberpunk-themed neural interface product. It features a responsive design, neon aesthetics, and interactive JavaScript elements like mobile navigation and alert pop-ups.
